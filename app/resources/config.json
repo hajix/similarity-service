@@ -1,0 +1,8 @@
+{
+    "speaker_duration": 20,
+    "similarity_threshold": 0.6,
+    "speaker_index_path": "/resources/speaker.index",
+    "speaker_database_path": "/resources/speaker.db",
+    "wav_base_folder": "/wav",
+    "embedding_size": 512
+}
